@@ -22,7 +22,7 @@ body{
     text-decoration: underline;
 }
 .card{
-    border:2px solid black;
+    border:2px solid rgb(147, 137, 137);
     width: 300px;
     text-align: center;
     margin-left:auto;
